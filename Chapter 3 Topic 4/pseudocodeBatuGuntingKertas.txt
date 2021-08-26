@@ -1,0 +1,14 @@
+BEGIN
+NUMBER pemain1, pemain2, gunting, batu, kertas
+OUTPUT ("Pemain 1 pilih gunting, batu, atau kertas:")
+INPUT batu or gunting or kertas
+OUTPUT ("Pemain 2 pilih gunting, batu, atau kertas:")
+INPUT batu or gunting or kertas
+IF (gunting x kertas, betu x gunting, kertas x batu) THEN
+	OUTPUT "Hore kamu menang!"
+  Else if (gunting == gunting, kertas == kertas, batu == batu) THEN
+	OUTPUT "Wah draw, ayo tanding lagi!"
+Else
+	OUTPUT "Yah kamu kalah :("
+ENDIF
+END

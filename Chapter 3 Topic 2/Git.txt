@@ -1,0 +1,6 @@
+1.Membuat cabang user story dan mengerjakan implementasi pada cabang tersebut.
+2.Melakukan merge request ke cabang staging.
+3.Kode hanya akan di-merge ke staging jika sudah mendapatkan approval dari 2 teman lain dalam tim.
+4.Melalui sprint review, kode pada cabang staging akan dicek kembali oleh Product Owner.
+5.Kode yang lolos akan di-merge ke cabang master dan siap di-deploy ke production.
+6.Kode yang tidak lolos harus di-revert dari staging dan dapat diperbaiki pada cabang coldfix.
